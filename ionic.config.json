@@ -1,0 +1,7 @@
+{
+  "name": "ae-a9i5-side-tabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
