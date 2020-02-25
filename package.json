@@ -1,6 +1,6 @@
 {
   "name": "ae-a9i5-side-tabs",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "author": "adaept",
   "homepage": "https://adaept.com/",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "private": false,
   "dependencies": {
-    "@adaept/ae-icon5-component": "^0.9.9992",
+    "@adaept/ae-icon5-component": "^0.9.9996",
     "@angular/common": "9.0.1",
     "@angular/compiler": "9.0.1",
     "@angular/core": "9.0.1",
