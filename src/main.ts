@@ -17,5 +17,5 @@ platformBrowserDynamic().bootstrapModule(AppModule)
 
 // needed for adding aeicons component
 applyPolyfills().then(() => {
-  defineCustomElements(window);
+  defineCustomElements();
 });
